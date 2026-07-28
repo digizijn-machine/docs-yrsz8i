@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-oqrz41.qrlinkstw.today/sitemap.xml
